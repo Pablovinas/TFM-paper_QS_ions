@@ -1,5 +1,5 @@
 # TFM-paper_QS_ions
-This code is part of my end of master's degree thesis and also part of a future paper. 
+This code is part of my end of master's degree thesis and also part of a future paper which is still in progress. 
 
 First, I show how to compute the critical line for a $\lambda\phi^4$ self-interacting field phase transition. This is made in the critical_field script,
 in which it is also computed a contourplot with T in the Y axis in order to compare with experiments.
